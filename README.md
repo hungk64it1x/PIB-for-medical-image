@@ -1,6 +1,6 @@
 # Copy Paste positive polyp using poisson image blending for medical image segmentation
 
-### According [poisson image blending](https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf) I've completely used it for biomedical image segmentation to increase dataset. Because Polyps segementation dataset does not enough have. <br> Wheares there are many tasks in medical using image to diagnose. This will help thr doctors reduce time and pressure 💪
+### According [poisson image blending](https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf) I've completely used it for biomedical image segmentation to increase dataset. Because Polyps segementation dataset does not enough have. <br> Wheares there are many tasks in medical using image to diagnose. This will help the doctors reduce time and pressure 💪
 ------------------------------------
 ### 1. Some examples of PIB copy paste
 
